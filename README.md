@@ -3,7 +3,7 @@
 corptec assignment
 open 
 1. import a postman collection which is there in the git repo
-2. import a project into eclipse
+2. extract the rar file and import a project as maven project into eclipse
 3. buld a project using mvn clean install
 4. to create a mysql tables,  create a database with the name 'spring' and  open query.sql file from project run the queries
 4. right click on Application.java file and run as springboot application
